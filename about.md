@@ -9,6 +9,7 @@ I started this page when I was 23-year-old. Just finished my degree, and now I'm
 ### More Information
 
 Malaysian.
+
 Graduated in Curtin University Sarawak.
 
 ### Contact me
