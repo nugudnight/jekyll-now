@@ -1,1 +1,7 @@
+type:CNAME
 
+host:www.github.com
+
+answer:nugudnight.github.io
+
+TLL:300
