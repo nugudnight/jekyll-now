@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I started this page when I was 23-year-old. Just finished my degree, and now I'm trying to do something different to learn something else... well, guess I should start with a 'Hi' here. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Malaysian \n Graduated in Curtin University Sarawak.
 
 ### Contact me
 
